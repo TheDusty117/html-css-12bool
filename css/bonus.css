@@ -20,3 +20,11 @@ section {
 .col-black{
   background-color: black;
 }
+
+.col-red{
+  background-color: red;
+}
+
+section{
+  padding-bottom: 200px;
+}
