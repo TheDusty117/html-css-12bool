@@ -5,6 +5,10 @@
 	border: 1px solid white;
 }
 
+.green{
+  background-color: green;
+}
+
 section {
 	padding: 5px;
 }
