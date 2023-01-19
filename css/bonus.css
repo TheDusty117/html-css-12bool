@@ -1,5 +1,5 @@
 [class^='col'] {
-	padding: 60px;
+	padding: 80px;
 	background-color: green;
 	color: white;
 	border: 1px solid white;
@@ -11,4 +11,12 @@
 
 section {
 	padding: 5px;
+}
+
+.col-lightgreen{
+  background-color: #9CE03D;
+}
+
+.col-black{
+  background-color: black;
 }
